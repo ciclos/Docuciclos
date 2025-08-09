@@ -4,4 +4,4 @@ Apuntes para los modulos
 
 ## DIW
 
-kkk
+kkk [ir a diw](DIW.md)
