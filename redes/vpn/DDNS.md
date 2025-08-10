@@ -1,0 +1,3 @@
+# DDNS
+
+## Registrarse en FreeDNS
