@@ -1,9 +1,5 @@
-# Documentacion
 
-Apuntes para los modulos
+Apuntes para los modulos de los ciclos de F.P.
 
-## DIW
-
-kkk [ir a diw](DIW.md)
-
-[Redes](redes/vpn/redes.md)
+* [DIW](DIW.md)
+* [Redes](redes/vpn/redes.md)
