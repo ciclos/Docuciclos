@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Conocimientos previos</summary>
+<summary> ### Conocimientos previos</summary>
 
 * ![DDNS](DDNS.md)
 
