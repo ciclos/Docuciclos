@@ -4,7 +4,7 @@
 
 <summary>Conocimientos previos</summary>
 
-* [DDNS](DDNS.md)
+* ![DDNS](DDNS.md)
 
 </details>
 
