@@ -37,3 +37,17 @@ Creamos el certificado del cliente, con las siguientes especificaciones y despu�
 
 ![alt text](8-crearCliente.png)
 
+## Exportamos los certificados
+
+Exportamos el certificado del cliente y del CA. 
+
+![alt text](10-exportarCliente-1.png)
+
+![alt text](10-exportarCliente-2.png)
+
+> [!NOTE]
+> Al exportar el del cliente le pondemos una clave, que se usará después al realizar la conexión desde el cliente, para poder usar este certificado.
+
+El CA lo exportamos sin llave de paso.
+
+![alt text](9-exportarCA.png)
